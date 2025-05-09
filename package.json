@@ -1,7 +1,6 @@
-{
-  "name": "tests",
-  "version": "1.0.0",
-  "main": "characterCounter.test.js",
+{ "name": "habit-tracker-app",
+"version": "1.0.0",
+"main": "index.js",
   "scripts": {
     "test": "jest"
   },

@@ -50,4 +50,4 @@ git clone https://github.com/ceedevgirl/habit-tracker.git
 - No backend or database is used; this is a front-end-only app.
 
 ## License
-This project is licensed under the MIT License.
+This project is for educational purposes as part of a lab activity.
